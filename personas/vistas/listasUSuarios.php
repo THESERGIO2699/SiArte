@@ -10,7 +10,7 @@ function Cargar() {
     return $filas; // Devolver el valor de $filasasdasdasdasdds
 }
 
-// Llamar a la función Cargar() y asignar su valor a $filas
+// Llamar a la función Cargar() y asignar su valor a $filasasdasd
 $filas = Cargar();
 ?>
 

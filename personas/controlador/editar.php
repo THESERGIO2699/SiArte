@@ -5,7 +5,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Obtener datos del formulario con validación
     //$id_tipo_persona_fk = $_POST['id_tipo_persona_fk'] ?? null;
     //$id_tipo_proponente_fk = $_POST['id_tipo_proponente_fk'] ?? null;
-    //$id_tipo_Documento_fk = $_POST['id_tipo_Documento_fk'] ?? null;
+    //$id_tipo_Documento_fk = $_POST['id_tipo_Documento_fk'] ?? null;   cxv
     $id= $_POST['id'];
     $numero_documento = $_POST['numero_documento'] ?? null;
     $nombres = $_POST['nombres'] ?? null;

@@ -7,7 +7,7 @@ function Cargar() {
     if ($filas == null) {
         $filas = [];
     }
-    return $filas; // Devolver el valor de $filas
+    return $filas; // Devolver el valor de $filasasdasdasdasdds
 }
 
 // Llamar a la función Cargar() y asignar su valor a $filas
